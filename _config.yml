@@ -1,0 +1,8 @@
+title: Jean Hélie
+description: Root repository of github pages
+google_analytics: UA-61444825-2
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
