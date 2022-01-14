@@ -2,7 +2,7 @@
 
 Below are some scripts I have written for my own work. If you find them useful and use them too please cite them (DOIs on their respective pages).
 
-Any questions/suggestions email jean.helie@bioch.ox.ac.uk.
+Any questions/suggestions email jhelie@github.com.
 
 ### pbc_fix
 
